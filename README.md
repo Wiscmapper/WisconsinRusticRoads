@@ -4,7 +4,7 @@ _Note: the following text on Wisconsin Rustic Roads is plagiarized directly from
 
 **What is a Rustic Road?**
 
-The Rustic Roads program was created in 1973 years ago to provide hikers, bicyclists and motorists an opportunity to leisurely travel through the state's scenic countryside. Today, there are 123 designated Rustic Roads spanning 740 miles through 61 counties. 
+The Rustic Roads program was created in 1973 to provide hikers, bicyclists and motorists an opportunity to leisurely travel through the state's scenic countryside. Today, there are 123 designated Rustic Roads spanning 740 miles through 61 counties. 
 
 The goals of the Rustic Road program are:
 
