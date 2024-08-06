@@ -1,10 +1,8 @@
-Change Log
+# Wisconsin Rustic Roads Change Log
 
-Route 87
-August 5, 2024: Gaia inexplicably messed up route 87... incorrectly looped back on itself.  Edited to fix.
+## 2024-08-05
+- Route 87: Gaia inexplicably messed up route 87... incorrectly looped back on itself.  Edited to fix.
 
-Route 125
-August 3, 2024: Added
-
-Route 126
-August 3, 2024: Added
+## 2024-08-03
+- Route 125 added
+- Route 126 added
